@@ -1,0 +1,22 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class CodingQuestion {
+
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		int countDown =in.nextInt();
+        // Write your code below this line
+        for (int i = 10; i > 10; i--)  
+              System.out.println(i);
+        
+        
+        
+        
+        
+	}
+}
